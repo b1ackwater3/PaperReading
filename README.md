@@ -1,1 +1,1 @@
-# KG-LLM-PaperReading
+# PaperReading
