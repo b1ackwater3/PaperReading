@@ -35,17 +35,18 @@
 ##  Papers
 
 ### Surveys
-- \[[arxiv](https://arxiv.org/abs/2402.05391)\] Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey. `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2402.19473)\] Retrieval-Augmented Generation for AI-Generated Content: A Survey. `2024.02` 
+
+### Method-KG
+- \[[ICML 2024](https://openreview.net/forum?id=JCG0KTPVYy)\] Coarse-to-Fine Highlighting: Reducing Knowledge Hallucination in Large Language Models. `2024.10` `already read`
 
 
-### Method
-- \[[arxiv](https://arxiv.org/pdf/2410.18415)\] Decoding on Graphs: Faithful and Sound Reasoning on Knowledge Graphs through Generation of Well-Formed Chains. `2024.10`
-
-
+### Method-RAG
+- \[[ICLR 2025](https://arxiv.org/abs/2410.05779)\] LightRAG: Simple and Fast Retrieval-Augmented Generation. `2024.10` `already read`
+- \[[arxiv](https://arxiv.org/abs/2404.16130)\] From Local to Global: A Graph RAG Approach to Query-Focused Summarization. `2024.04` `already read`
 
 ### Resources and Benchmarking
-- \[[arxiv](https://arxiv.org/abs/2404.13207)\] STaRK: Benchmarking LLM Retrieval on Textual and Relational Knowledge Bases. `2024.04` \[[Repo](https://github.com/snap-stanford/stark)\]
-
+- \[[arxiv](https://arxiv.org/abs/2406.14497)\] CodeRAG-Bench: Can Retrieval Augment Code Generation?. `2024.06` `already read`
 
 
 
