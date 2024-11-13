@@ -44,7 +44,7 @@
 ### Method-RAG
 - \[[ICLR 2025](https://arxiv.org/abs/2410.05779)\] LightRAG: Simple and Fast Retrieval-Augmented Generation. `2024.10` `already read`
 - \[[arxiv](https://arxiv.org/abs/2404.16130)\] From Local to Global: A Graph RAG Approach to Query-Focused Summarization. `2024.04` `already read`
-- \[[ICLR 2025](https://arxiv.org/pdf/2410.18251)\] Context-Augmented Code Generation Using Programming Knowledge Graphs. `2024.10`
+- \[[ICLR 2025](https://arxiv.org/pdf/2410.18251)\] Context-Augmented Code Generation Using Programming Knowledge Graphs. `2024.10` `already read`
 - \[[ICLR 2025](https://arxiv.org/abs/2410.14684)\] RepoGraph: Enhancing AI Software Engineering with Repository-level Code Graph. `2024.10`
 - \[[ICLR 2025](https://openreview.net/forum?id=F6rZaxOC6m)\] KnowTrace: Explicit Knowledge Tracing for Structured Retrieval-Augmented Generation. `2024.10`
 - \[[ICLR 2025](https://openreview.net/forum?id=FSjIrOm1vz)\] Inference Scaling for Long-Context Retrieval Augmented Generation. `2024.10`
