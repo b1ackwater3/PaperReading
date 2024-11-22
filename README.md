@@ -44,10 +44,18 @@
 ### Method-RAG
 - \[[ICLR 2025](https://arxiv.org/abs/2410.05779)\] LightRAG: Simple and Fast Retrieval-Augmented Generation. `2024.10` `already read`
 - \[[arxiv](https://arxiv.org/abs/2404.16130)\] From Local to Global: A Graph RAG Approach to Query-Focused Summarization. `2024.04` `already read`
-- \[[ICLR 2025](https://arxiv.org/pdf/2410.18251)\] Context-Augmented Code Generation Using Programming Knowledge Graphs. `2024.10` `already read`
-- \[[ICLR 2025](https://arxiv.org/abs/2410.14684)\] RepoGraph: Enhancing AI Software Engineering with Repository-level Code Graph. `2024.10`
 - \[[ICLR 2025](https://openreview.net/forum?id=F6rZaxOC6m)\] KnowTrace: Explicit Knowledge Tracing for Structured Retrieval-Augmented Generation. `2024.10`
 - \[[ICLR 2025](https://openreview.net/forum?id=FSjIrOm1vz)\] Inference Scaling for Long-Context Retrieval Augmented Generation. `2024.10`
+
+### Method-RACG
+- \[[ICLR 2025](https://arxiv.org/pdf/2410.18251)\] Context-Augmented Code Generation Using Programming Knowledge Graphs. `2024.10` `already read`
+- \[[ICLR 2025](https://arxiv.org/abs/2410.14684)\] RepoGraph: Enhancing AI Software Engineering with Repository-level Code Graph. `2024.10`
+- \[[Arxiv](https://arxiv.org/abs/2402.12317)\] ARKS: Active Retrieval in Knowledge Soup for Code Generation. `2024.02`
+- \[[EMNLP 2023](https://arxiv.org/pdf/2303.12570)\] RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation. `2023.03`
+- \[[ICLR 2023](https://arxiv.org/pdf/2207.05987)\] DocPrompting: GENERATING CODE BY RETRIEVING THE DOCS. `2022.07`
+- \[[ACL 2022](https://arxiv.org/abs/2203.07722)\] ReACC: A Retrieval-Augmented Code Completion Framework. `2022.03`
+- \[[EMNLP Findings 2021](https://arxiv.org/abs/2108.11601)\] Retrieval Augmented Code Generation and Summarization. `2021.08`
+
 ### Resources and Benchmarking
 - \[[arxiv](https://arxiv.org/abs/2406.14497)\] CodeRAG-Bench: Can Retrieval Augment Code Generation?. `2024.06` `already read`
 
