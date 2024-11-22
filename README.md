@@ -35,6 +35,7 @@
 ##  Papers
 
 ### Surveys
+- \[[arxiv](https://arxiv.org/pdf/2406.00515)\] A Survey on Large Language Models for Code Generation. `2024.06`
 - \[[arxiv](https://arxiv.org/abs/2402.19473)\] Retrieval-Augmented Generation for AI-Generated Content: A Survey. `2024.02` 
 
 ### Method-KG
