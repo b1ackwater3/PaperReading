@@ -51,6 +51,7 @@
 ### Method-RACG
 - \[[ICLR 2025](https://arxiv.org/pdf/2410.18251)\] Context-Augmented Code Generation Using Programming Knowledge Graphs. `2024.10` `already read`
 - \[[ICLR 2025](https://arxiv.org/abs/2410.14684)\] RepoGraph: Enhancing AI Software Engineering with Repository-level Code Graph. `2024.10`
+- \[[ACL 2024](https://arxiv.org/pdf/2405.19782)\] Dataflow-Guided Retrieval Augmentation for Repository-Level Code Completion. `2024.05`
 - \[[Arxiv](https://arxiv.org/abs/2402.12317)\] ARKS: Active Retrieval in Knowledge Soup for Code Generation. `2024.02`
 - \[[EMNLP 2023](https://arxiv.org/pdf/2303.12570)\] RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation. `2023.03`
 - \[[ICLR 2023](https://arxiv.org/pdf/2207.05987)\] DocPrompting: GENERATING CODE BY RETRIEVING THE DOCS. `2022.07`
