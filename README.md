@@ -1,4 +1,4 @@
-# KG/RAG-LLM-Papers
+# LLM-Papers
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/zjukg/KG-LLM-Papers) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/zjukg/KG-LLM-Papers/blob/main/LICENSE)
 ![](https://img.shields.io/github/last-commit/zjukg/KG-LLM-Papers?color=green) 
@@ -56,6 +56,9 @@
 - \[[ICLR 2023](https://arxiv.org/pdf/2207.05987)\] DocPrompting: GENERATING CODE BY RETRIEVING THE DOCS. `2022.07`
 - \[[ACL 2022](https://arxiv.org/abs/2203.07722)\] ReACC: A Retrieval-Augmented Code Completion Framework. `2022.03`
 - \[[EMNLP Findings 2021](https://arxiv.org/abs/2108.11601)\] Retrieval Augmented Code Generation and Summarization. `2021.08`
+
+### Method-Others
+- \[[ICLR 2025](https://arxiv.org/pdf/2411.14257)\] Do I Know This Entity? Knowledge Awareness and Hallucinations in Language Models. `2024.11`
 
 ### Resources and Benchmarking
 - \[[arxiv](https://arxiv.org/abs/2406.14497)\] CodeRAG-Bench: Can Retrieval Augment Code Generation?. `2024.06` `already read`
