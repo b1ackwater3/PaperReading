@@ -51,6 +51,7 @@
 ### Method-RACG
 - \[[ICLR 2025](https://arxiv.org/pdf/2410.18251)\] Context-Augmented Code Generation Using Programming Knowledge Graphs. `2024.10` `already read`
 - \[[ICLR 2025](https://arxiv.org/abs/2410.14684)\] RepoGraph: Enhancing AI Software Engineering with Repository-level Code Graph. `2024.10`
+- \[[arxiv](https://openreview.net/pdf/165bbc76cbb447f2ea74ed1b1a4bb3531ee87e6d.pdf)\] CODEXGRAPH: Bridging Large Language Models and Code Repositories via Code Graph Databases. `2024.08`
 - \[[arxiv](https://arxiv.org/pdf/2406.07003)\] GraphCoder: Enhancing Repository-Level Code Completion via Code Context Graph-based Retrieval and Language Model. `2024.06`
 - \[[ACL 2024](https://arxiv.org/pdf/2405.19782)\] Dataflow-Guided Retrieval Augmentation for Repository-Level Code Completion. `2024.05`
 - \[[arxiv](https://arxiv.org/pdf/2403.06095)\] RepoHYPER: : Search-Expand-Refine on Semantic Graphs for Repository-Level Code Completion. `2024.03`
